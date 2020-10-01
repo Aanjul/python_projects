@@ -1,3 +1,3 @@
-# phython_projects
+# python_projects
 
-#Automation Programmes in Phython
+#Automation Programmes in Python
