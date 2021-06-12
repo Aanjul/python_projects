@@ -12,5 +12,5 @@ while(user_input>0):
     user_input=user_input//10
     print("The reversed number is :",_rev)
 
-    #Command to execute the script over terminal
+    #Command to execute the script over terminal python3 script_to_reverse_user_input_number.py
     
