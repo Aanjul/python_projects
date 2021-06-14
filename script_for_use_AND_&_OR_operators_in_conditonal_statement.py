@@ -14,3 +14,6 @@ if(assignment_marks >= 40 and assignmenttwo_marks >= 30) or (assignment_marks + 
     print("\nYou are successfull")
 else:
         print("\nYou are one level up")
+        
+        #Terminal command for script to run python3 script_for_use_AND_\&_OR_operators_in_conditonal_statement.py 
+
