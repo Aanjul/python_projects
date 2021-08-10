@@ -1,6 +1,7 @@
 # For refrence https://github.com/hastagAB/Awesome-Python-Scripts/blob/master/Remove-Duplicate-Files/removeDuplicateFiles.py
 
-import os
+
+import os
 import hashlib
 
 # function to compute SHA-1 hash of a file
@@ -61,4 +62,7 @@ if __name__=='__main__':
 
 
 
-
+#Usage
+#Simply run the script from the terminal after specifying the path
+    
+    
