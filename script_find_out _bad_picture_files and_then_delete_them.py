@@ -20,3 +20,9 @@ for (dirname, dirs, files) in os.walk('.') :
 	print 'iPhone:', thefile
 	#os.remove(thefile) Add this when you are sure to delete the file
 	continue
+
+#Description
+#This program is used to find out the "bad" picture files and then eventually delete them.
+
+#Usage
+#Run the clean_up_photo.py
